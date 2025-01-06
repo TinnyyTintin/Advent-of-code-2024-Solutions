@@ -1,4 +1,5 @@
 .venv/
+.idea/
 test inputs.txt
 inputs.txt
 
