@@ -8,7 +8,7 @@ AMXSXMAAMM
 
 Part 1:
     - Search all appearances of "XMAS" from inputs. Can be vertical, diagonal, written backwards,
-      or even overlapping other words. For example:
+      or even overlapping other words. Example:
       =====
       ..X...
       .SAMX.
