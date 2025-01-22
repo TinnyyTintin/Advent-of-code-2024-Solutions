@@ -8,6 +8,7 @@ example input:
 156: 15 6
 7290: 6 8 6 15
 161011: 16 10 13
+
 Part 1:
     - Values AFTER colon must equal to value BEFORE colon. You can only use operations "+" and "*", and they are always
       executed from left to right. Look through all combinations for operations. Add together all correct lines.
